@@ -24,3 +24,13 @@ I'm a passionate full-stack developer who specializes in modern web technologies
 ## 🌟 Tech Philosophy
 
 I believe in using the right tool for the job - whether that's FastAPI for high-performance APIs, Supabase for rapid prototyping, or integrating multiple AI models to create intelligent applications. Always learning and experimenting with emerging technologies.
+
+## 📊 GitHub StatsAdd commentMore actions
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielevans254&theme=dracula&show_icons=true)](https://github.com/danielevans254/github-readme-stats)
+
+## 🎯 Dev Card
+<div align="center">
+    <a href="https://app.daily.dev/vanbose">
+        <img src="./devcard.png" width="256" alt="Daniel Evans' Dev Card"/>
+    </a>
+</div>
